@@ -10,8 +10,8 @@ pip install -r requirements.txt
 ### Run Locally
 1. Clone the repo.
    ```bash
-   git clone https://github.com/your-username/django-quiz-up.git
-   cd django-quiz-up
+   git clone https://github.com/iamyashsharma43/Quiz-web-app.git
+   cd Quiz-web-app
    ```
 
 2. Run the server.
